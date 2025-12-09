@@ -186,14 +186,6 @@ Key dependencies include:
 
 See `requirements.txt` for the complete list.
 
-## License
-
-See LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## Notes
 
 - Ensure all agent servers are running before using the orchestrator
